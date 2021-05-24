@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "semanticCommits": true,
+  "automerge": true,
+  "major": {
+    "automerge": false
+  },
+  "node": {
+    "supportPolicy": "current"
+  },
+  "masterIssue": true
+}

@@ -10,5 +10,6 @@
   "node": {
     "supportPolicy": "current"
   },
+  "ignoreUnstable": false,
   "masterIssue": true
 }
